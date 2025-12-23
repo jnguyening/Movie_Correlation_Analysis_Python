@@ -1,3 +1,3 @@
 # Movie Correlation Analysis Project
 
-This repository contains Python scripts and documentation for a movie correlation analysis project. The project focuses on analyzing movie data to identify correlations and insights related to factors such as genre, ratings, and box office performance using Python.
+This exploratory data science project utilizes Python to conduct a statistical investigation into the primary drivers of financial success within the film industry. By implementing Pandas for rigorous data wrangling and Seaborn for regression modeling, the analysis tests the correlation between production budgets, user engagement, and gross earnings. The study concludes with a comparative evaluation of Pearson, Kendall, and Spearman correlation coefficients, mathematically validating that budget and audience "votes" serve as more accurate predictors of revenue than production company prestige.
